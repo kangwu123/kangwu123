@@ -36,6 +36,25 @@ alt="khang-zalo" />
 <h2 align="center">☕ Buy Me A Coffee ☕</h2>
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/kangwu"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kangwu" /></a></p><br><br>
+<h2>Profile Analysis</h2>
+<p align="center">
+      <a href="https://github.com/Aronno1920">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aronno1920&count_private=true&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&langs_count=10&hide_title=true&theme=dark"/>
+    </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Aronno1920">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aronno1920&theme=dark&hide_border=true&hide_title=true" alt="GitHub Profile Summary">
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/kangwu123">
+    <img width="435px" src="https://github-readme-stats.vercel.app/api?username=kangwu123&show_icons=true&hide_border=true&hide_title=true&theme=dark" alt="GitHub Stats">
+  </a>
+  <a href="https://github.com/kangwu123">
+    <img width="390px" src="https://github-readme-streak-stats.herokuapp.com/?user=kangwu123&hide_border=true&theme=dark" alt="KhangGia" />
+  </a>
+</p>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 <a href="#" target="_blank">
