@@ -38,13 +38,8 @@ alt="khang-zalo" />
 <p><a href="https://www.buymeacoffee.com/kangwu"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kangwu" /></a></p><br><br>
 <h2>Profile Analysis</h2>
 <p align="center">
-      <a href="https://github.com/kangwu123">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kangwu123&count_private=true&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&langs_count=10&hide_title=true&theme=dark"/>
-    </a>
-</p>
-<p align="center">
-  <a href="https://github.com/kangwu123">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aronno1920&theme=dark&hide_border=true&hide_title=true" alt="GitHub Profile Summary">
+  <a href="https://github.com/kangwu123/">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kangwu123&theme=dark&hide_border=true&hide_title=true" alt="GitHub Profile Summary">
   </a>
 </p>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
