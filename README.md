@@ -74,6 +74,7 @@ alt="khang-zalo" />
 </p>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
+<p align="center">
 <a href="#" target="_blank" align="center">
   <img src="svg/KHANGGIA-quotes.svg" width="846" height="150" alt="KhangGia" />
-</a>
+</a></p>
