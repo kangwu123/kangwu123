@@ -66,7 +66,7 @@ alt="khang-zalo" />
 <h3 align="center">Support:</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/kangwu"> 
     <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kangwu" /></a></p><br><br>
-<h2>Profile Analysis</h2>
+<h2 align="center">Profile Analysis</h2>
 <p align="center">
   <a href="https://github.com/kangwu123/">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kangwu123&theme=dark&hide_border=true&hide_title=true" alt="GitHub Profile Summary">
@@ -74,6 +74,6 @@ alt="khang-zalo" />
 </p>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
-<a href="#" target="_blank">
+<a href="#" target="_blank" align="center">
   <img src="svg/KHANGGIA-quotes.svg" width="846" height="150" alt="KhangGia" />
 </a>
