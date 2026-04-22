@@ -38,9 +38,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25"/></span>
-<span><img src="https://img.shields.io/badge/VS%20-282C34?logo=visual-studio&logoColor=5D2B90" alt="Visual Studio logo" title="Visual Studio" height="25"/></span>
-&nbsp;
+<span><img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" title="Visual Studio Code" height="25"/></span>
+<span><img src="https://img.shields.io/badge/Visual%20Studio%202022-5C2D91?logo=visual-studio&logoColor=white" alt="Visual Studio 2022" title="Visual Studio 2022" height="25"/></span>
 
 <br>
 <h2 align="center">👽 Where to find me 👽</h2>
